@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CCM Archive Page</title>
+    <title>CCM Team /title>
 </head>
 <body>
     <?php include "./HeaderFooter/header.php" ?>
